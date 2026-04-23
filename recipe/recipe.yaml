@@ -1,5 +1,5 @@
 context:
-  version: 1.0.4
+  version: "1.1.0"
 
 package:
   name: stimulus-language-server
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/stimulus-language-server/-/stimulus-language-server-${{ version }}.tgz
-  sha256: 2686112ac11796f34ef7fe8ca791bca5007fda3c87170998e38d5e79d3903f0d
+  sha256: d0d0aab858b620a7247ca559a84bb5f1ea99f5b0cb6921aa0b6fbb43b960c42d
 
 build:
   number: 0
